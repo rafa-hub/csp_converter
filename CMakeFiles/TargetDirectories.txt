@@ -1,0 +1,4 @@
+/home/rafa/Documents/Fuentes/XCSP3-CPP-Parser/CMakeFiles/rebuild_cache.dir
+/home/rafa/Documents/Fuentes/XCSP3-CPP-Parser/CMakeFiles/edit_cache.dir
+/home/rafa/Documents/Fuentes/XCSP3-CPP-Parser/CMakeFiles/samplesXcsp3.dir
+/home/rafa/Documents/Fuentes/XCSP3-CPP-Parser/CMakeFiles/xcsp3parser.dir

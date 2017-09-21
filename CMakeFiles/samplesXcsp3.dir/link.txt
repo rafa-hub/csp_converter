@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/samplesXcsp3.dir/samples/main.cc.o  -o samplesXcsp3 libxcsp3parser.a /usr/lib/x86_64-linux-gnu/libxml2.so.2.9.3 /usr/lib/x86_64-linux-gnu/libxml2.a 
