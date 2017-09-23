@@ -1,3 +1,9 @@
+
+Este es el código basado en el parser que abajo se indica.
+
+Este código genera una matriz a partir de ficheros XML que contienen reglas extensionales de un CSP
+
+
 C/C++ parser for the CSP XML format version 3.0
 
 (c) 2015 xcsp.org (contact <at> xcsp.org)<br />
